@@ -1,4 +1,11 @@
-# GroceryApp sprint3 Studentversie  
+# Aangepaste versie sprint 3
+
+
+## Voor de nakijkers:
+
+1. Test use cases voor UC 08 en 09 failen. De reden hiervoor is in de build artifacts. Waar precies dat moet verder onderzocht worden. Daarom zijn ze niet gemerged!
+2. Workflow bevat de unit tests. Omdat de unit tests failen, failt ook dus de workflow
+3. Overige documentaties m.b.t testen kun je in zip file vinden
     
 ## UC07 Delen boodschappenlijst  
 Is compleet  
